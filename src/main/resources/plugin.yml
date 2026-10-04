@@ -4,3 +4,8 @@ version: '${version}'
 main: Cool.rPGPlugin.RPGPlugin
 api-version: '26.3'
 load: POSTWORLD
+
+commands:
+  rpg:
+    description: Shows your RPG Stats
+    usage: /rpg
