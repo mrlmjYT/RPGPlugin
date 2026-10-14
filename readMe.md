@@ -1,21 +1,86 @@
-# RPGPlugin
-This is my new plugin. The Lubru-RPGPlugin.
-There is going to be a lot of features in this plugin I hope you will like it.
+# Lubru-RPGPlugin
 
-### These Features are already implemented:
-- /rpg Command
-- XP
-- Level
-- Strength
-- Intelligence
-- Defence
-- Dexterity
-- Zombie/Skeloton brings you XP and can level you up
+A Minecraft RPG plugin that adds RPG mechanics, character progression, and combat-based experience to your server.
 
-### Future Features
-- classes
-- ranks
-- custom items
-- more mobs which give you more xp
+## Description
 
+**Lubru-RPGPlugin** is a Minecraft plugin designed to bring RPG elements to your server. Players can earn experience by defeating hostile mobs, level up their characters, and develop their stats to improve their abilities.
 
+The plugin currently includes an RPG command system, experience points, levels, and four different character attributes: Strength, Intelligence, Defence, and Dexterity.
+
+This is an ongoing project, with more features planned for future updates, including character classes, ranks, custom items, and additional mobs with unique experience rewards.
+
+## Features
+
+### Implemented
+- `/rpg` command to access RPG features
+- Experience (XP) system
+- Player leveling system
+- Strength attribute
+- Intelligence attribute
+- Defence attribute
+- Dexterity attribute
+- Zombies and skeletons grant XP when defeated
+- Players can level up by earning enough XP
+
+### Planned Features
+- Character classes with different playstyles
+- Player ranks and progression
+- Custom RPG items
+- More mobs with different XP rewards
+- Additional RPG mechanics and gameplay improvements
+
+## Getting Started
+
+### Dependencies
+
+Before installing the plugin, make sure you have:
+
+- A Minecraft server compatible with the plugin's target version
+- A compatible server software, such as Paper or Spigot
+- Java installed and configured for your Minecraft server
+- The Lubru-RPGPlugin `.jar` file
+
+**Note:** The required Java version and supported Minecraft versions depend on the plugin's build configuration.
+
+### Installing
+
+1. Download the latest release of Lubru-RPGPlugin.
+2. Stop your Minecraft server.
+3. Place the plugin `.jar` file into your server's `plugins` folder.
+4. Start or restart your server.
+5. Check the server console to make sure the plugin loaded successfully.
+
+### Executing the Plugin
+
+1. Join your Minecraft server.
+2. Open the chat.
+3. Execute the following command:
+
+```text
+/rpg
+```
+
+4. Explore the available RPG features and start earning XP by defeating zombies and skeletons.
+5. Level up your character and develop your RPG stats.
+
+## Commands
+
+| Command | Description |
+|---|---|
+| `/rpg` | Access the RPG system |
+
+## Help
+
+If you encounter any issues:
+
+- Make sure the plugin `.jar` file is in the correct `plugins` folder.
+- Verify that your Minecraft server version is compatible.
+- Check the server console for errors during startup.
+- Make sure Java is correctly installed and configured.
+
+If the plugin does not work as expected, report the issue with your Minecraft version, server software, and relevant console logs.
+
+## License
+
+This project is distributed under the license of free to use
