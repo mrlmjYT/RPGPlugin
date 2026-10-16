@@ -81,6 +81,12 @@ If you encounter any issues:
 
 If the plugin does not work as expected, report the issue with your Minecraft version, server software, and relevant console logs.
 
+## Pictures
+<img width="451" height="250" alt="image" src="https://github.com/user-attachments/assets/bef75db1-5d5d-4420-93d5-51dc42a00418" />
+<img width="733" height="116" alt="image" src="https://github.com/user-attachments/assets/d20d1f98-3b7f-44cb-9117-287243cad4ab" />
+
+
+
 ## License
 
 This project is distributed under the license of free to use
