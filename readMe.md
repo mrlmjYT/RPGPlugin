@@ -88,7 +88,7 @@ If the plugin does not work as expected, report the issue with your Minecraft ve
 ## Tech Stack
 
 - **Language:** Java
-- **Minecraft Version:** 1.26.3
+- **Minecraft Version:** 26.3
 - **Server Software / Platform:** Paper
 - **Plugin Type:** Bukkit-compatible server plugin
 - **Build System:** Gradle
