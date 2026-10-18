@@ -85,7 +85,17 @@ If the plugin does not work as expected, report the issue with your Minecraft ve
 <img width="451" height="250" alt="image" src="https://github.com/user-attachments/assets/bef75db1-5d5d-4420-93d5-51dc42a00418" />
 <img width="733" height="116" alt="image" src="https://github.com/user-attachments/assets/d20d1f98-3b7f-44cb-9117-287243cad4ab" />
 
+## Tech Stack
 
+- **Language:** Java
+- **Minecraft Version:** 1.26.3
+- **Server Software / Platform:** Paper
+- **Plugin Type:** Bukkit-compatible server plugin
+- **Build System:** Gradle
+- **Loader:** Paper Plugin Loader (no client-side mod loader required)
+- **Target Environment:** Minecraft Java Edition dedicated servers
+
+> **Note:** This is a server-side plugin. Players do not need to install a client-side mod to use its features.
 
 ## License
 
