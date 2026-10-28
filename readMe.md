@@ -4,12 +4,9 @@ A Minecraft RPG plugin that adds RPG mechanics, character progression, and comba
 
 ## Description
 
-**Lubru-RPGPlugin** is a Minecraft plugin designed to bring RPG elements to your server. Players can earn experience by defeating hostile mobs, level up their characters, and develop their stats to improve their abilities.
+**Lubru-RPGPlugin** is a Minecraft plugin that features RPG elements. Players can earn experience with killing mobs.
 
-The plugin currently includes an RPG command system, experience points, levels, and four different character attributes: Strength, Intelligence, Defence, and Dexterity.
-
-This is an ongoing project, with more features planned for future updates, including character classes, ranks, custom items, and additional mobs with unique experience rewards.
-
+This is an ongoing project, there will be new features implemented
 ## Features
 
 ### Implemented
@@ -20,8 +17,6 @@ This is an ongoing project, with more features planned for future updates, inclu
 - Intelligence attribute
 - Defence attribute
 - Dexterity attribute
-- Zombies and skeletons grant XP when defeated
-- Players can level up by earning enough XP
 
 ### Planned Features
 - Character classes with different playstyles
@@ -36,12 +31,10 @@ This is an ongoing project, with more features planned for future updates, inclu
 
 Before installing the plugin, make sure you have:
 
-- A Minecraft server compatible with the plugin's target version
-- A compatible server software, such as Paper or Spigot
+- A Minecraft server with Minecraft 26.3
+- Paper as a server software
 - Java installed and configured for your Minecraft server
 - The Lubru-RPGPlugin `.jar` file
-
-**Note:** The required Java version and supported Minecraft versions depend on the plugin's build configuration.
 
 ### Installing
 
@@ -61,8 +54,7 @@ Before installing the plugin, make sure you have:
 /rpg
 ```
 
-4. Explore the available RPG features and start earning XP by defeating zombies and skeletons.
-5. Level up your character and develop your RPG stats.
+4. Level up your character.
 
 ## Commands
 
@@ -92,10 +84,8 @@ If the plugin does not work as expected, report the issue with your Minecraft ve
 - **Server Software / Platform:** Paper
 - **Plugin Type:** Bukkit-compatible server plugin
 - **Build System:** Gradle
-- **Loader:** Paper Plugin Loader (no client-side mod loader required)
+- **Loader:** Paper Plugin Loader
 - **Target Environment:** Minecraft Java Edition dedicated servers
-
-> **Note:** This is a server-side plugin. Players do not need to install a client-side mod to use its features.
 
 ## License
 
